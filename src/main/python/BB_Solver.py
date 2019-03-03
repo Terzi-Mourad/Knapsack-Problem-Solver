@@ -1,4 +1,5 @@
 class BB_Solver:
+#Branch and bound solver class
 
     def __init__(self,capacity,weights,values):
         self.capacity = capacity
